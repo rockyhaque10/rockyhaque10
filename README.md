@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D5616AQGKSgmFX-uZHg/profile-displaybackgroundimage-shrink_350_1400/0/1676378290795?e=1698278400&v=beta&t=LELl1O3U7VhUBifiB_eYeVG_ot9lDWgNWXH_H2gqEeI)
+![MasterHead](https://en.bloggif.com/tmp/704ee4b378c9f72a2a58ec402d509b66/text.gif?1701795480)
 <h1 align="center">Hey 👋! This is Rocky</h1>
 <h3 align="center">A passionate Software Engineer | Exploring the Boundless Horizons of Code | Transforming Ideas into Web Realities</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
