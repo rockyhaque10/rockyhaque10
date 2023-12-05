@@ -1,4 +1,4 @@
-![MasterHead](https://www.canva.com/design/DAF2IeGA7gw/crnsScm78s_p7AkdRAMtmg/watch?utm_content=DAF2IeGA7gw&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+![MasterHead](https://en.bloggif.com/tmp/704ee4b378c9f72a2a58ec402d509b66/text.gif?1701795480)
 <h1 align="center">Hey 👋! This is Rocky</h1>
 <h3 align="center">A passionate Software Engineer | Exploring the Boundless Horizons of Code | Transforming Ideas into Web Realities</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
