@@ -1,4 +1,4 @@
-![MasterHead](https://en.bloggif.com/tmp/704ee4b378c9f72a2a58ec402d509b66/text.gif?1701795480)
+![MasterHead](https://www.canva.com/design/DAF2IeGA7gw/crnsScm78s_p7AkdRAMtmg/watch?utm_content=DAF2IeGA7gw&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 <h1 align="center">Hey 👋! This is Rocky</h1>
 <h3 align="center">A passionate Software Engineer | Exploring the Boundless Horizons of Code | Transforming Ideas into Web Realities</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
@@ -20,7 +20,9 @@
 - 📄 Know about my experiences [https://github.com/rockyhaque10](https://github.com/rockyhaque10)
 
 - ⚡ Fun fact **I enjoy solving complex coding puzzles while sipping on a cup of freshly brewed coffee – the perfect blend of logic and caffeine!**
-<br><br>
+
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rocky_haque10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rocky_haque10" height="30" width="40" /></a>
